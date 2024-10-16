@@ -1,7 +1,7 @@
 # Vishal Malviya
 ### MERN Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalmalviya-2170171b6)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalmalviya3846)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:vishalmalviya3846@gmail.com)
 
 ---
