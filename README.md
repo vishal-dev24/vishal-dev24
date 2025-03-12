@@ -67,7 +67,7 @@ Modi Institute of Management and Technology (2020 - 2023)
 
 - **Phone**: +91 8905013846  
 - **Email**: [vishalmalviya3846@gmail.com](mailto:vishalmalviya3846@gmail.com)  
-- **LinkedIn**:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalmalviya3846)
+- **LinkedIn**: [vishal malviya](https://www.linkedin.com/in/vishalmalviya3846)
 
 
 ---
