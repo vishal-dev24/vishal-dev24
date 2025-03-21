@@ -8,7 +8,7 @@
 
 ## 🌍 About Me
 
-🔭 I’m currently working as a **MERN Stack Developer** at **Spanco Web Technologies**.
+🔭 I’m currently working as a **MERN Stack Developer** at **CODTECH IT SOLUTIONS**.
 
 🌱 Passionate about building scalable web applications and learning new technologies.
 
