@@ -59,31 +59,14 @@ Passionate about writing clean, efficient, and production-ready code.
 
 ## 🚀 Technical Skills
 
-### 💻 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+**💻 Frontend:** React.js | JavaScript (ES6+) | HTML5 | CSS3 | Tailwind CSS | Bootstrap  
 
-### ⚙ Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
+**⚙ Backend:** Node.js | Express.js | REST APIs | JWT Authentication  
 
-### 🗄 Database
-- MongoDB
-- Mongoose
+**🗄 Database:** MongoDB | Mongoose  
 
-### 🛠 Tools & Services
-- Git & GitHub
-- Postman
-- Stripe
-- Nodemailer
+**🛠 Tools & Services:** Git | GitHub | Postman | Stripe | Nodemailer
 
----
 
 ## 🛠️ Projects
 
