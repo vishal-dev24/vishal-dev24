@@ -82,7 +82,7 @@ Passionate about writing clean, efficient, and production-ready code.
 ---
 
 ### 💬 WhatsApp Clone – Real-Time Chat Application
-🔗 Live: https://test-chat-app-1.onrender.com/  
+🔗 Live: https://test-chat-app-1.onrender.com/
 💻 GitHub: https://github.com/vishal-dev24/TEST-CHAT-APP  
 
 - Real-time Messaging
