@@ -71,8 +71,8 @@ Passionate about writing clean, efficient, and production-ready code.
 ## 🛠️ Projects
 
 ### 🖼 Pinterest Clone – Full Stack MERN App
-🔗 Live: https://test-pinterest-1.onrender.com/  
-💻 GitHub: https://github.com/vishal-dev24/PINTEREST  
+🔗 Live: https://pinterest-2-0-1.onrender.com/ 
+💻 GitHub: https://github.com/vishal-dev24/PINTEREST-2.0 
 
 - User Authentication (JWT)
 - Image Upload & Feed System
