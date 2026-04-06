@@ -1,4 +1,4 @@
-# Vishal Malviya
+# Vishaal Malviya
 ### MERN Stack Developer | 1+ Year Experience
 
 📍 Rajasthan, India  
