@@ -6,11 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishalmalviya3846)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail)](mailto:malviyavishalak47@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vishaal-malviya.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vishaal-malviya.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://vishaal-malviya.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/-Visit%20Portfolio-0A66C2?style=for-the-badge&logo=react&logoColor=white)](https://vishaal-malviya.netlify.app/)
-
----
 
 ## 🌍 Professional Summary
 
